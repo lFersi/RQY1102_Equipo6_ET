@@ -20,3 +20,8 @@ Esta solución aporta valor al negocio al:
 1.  **Transparentar la información financiera** de cara a la comunidad para incentivar el pago oportuno y reducir la morosidad.
 2.  **Automatizar el acceso a las cartolas y estados de pago**, eliminando consultas repetitivas.
 3.  **Aliviar drásticamente la carga de trabajo administrativo** del escaso personal operativo del edificio.
+
+## Link a prototipo
+https://www.figma.com/make/nYJUegIDgIqrwnBz2sXpfm/Pantalla-de-inicio-de-sesi%C3%B3n?fullscreen=1&t=y7Isp54obQdu8rN2-1&code-node-id=0-9
+**Usuario:** residente@elmirador.com
+**Contraseña:** 1234
